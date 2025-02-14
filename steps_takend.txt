@@ -1,0 +1,11 @@
+npm init -y //initalize the package.json 
+
+npm install express mongoose cors dotenv
+npm install --save-dev nodemon
+
+
+express	Web framework for Node.js
+mongoose	MongoDB ORM (Object Data Modeling)
+cors	Cross-Origin Resource Sharing
+dotenv	Environment variable management
+nodemon	Auto-restart server on file changes
